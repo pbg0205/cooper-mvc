@@ -45,4 +45,8 @@ bin/
 ## mysql environment variable
 mvc_mysql
 
+# about servlet class files
 webapps/WEB-INF/classes/**
+
+# tomcat jsp files
+tomcat.8080
